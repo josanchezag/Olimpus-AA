@@ -1,10 +1,10 @@
-package com.Olimpus.Olimpus_AA
+package com.Olympus.Olympus_AA
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class OlimpusAaApplicationTests {
+class OlympusAaApplicationTests {
 
 	@Test
 	fun contextLoads() {

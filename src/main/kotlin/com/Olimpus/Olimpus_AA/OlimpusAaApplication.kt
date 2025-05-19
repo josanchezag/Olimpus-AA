@@ -1,11 +1,11 @@
-package com.Olimpus.Olimpus_AA
+package com.Olympus.Olympus_AA
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class OlimpusAaApplication
+class OlympusAaApplication
 
 fun main(args: Array<String>) {
-	runApplication<OlimpusAaApplication>(*args)
+	runApplication<OlympusAaApplication>(*args)
 }

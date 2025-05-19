@@ -8,10 +8,10 @@
 		<version>3.4.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.Olimpus</groupId>
-	<artifactId>Olimpus-AA</artifactId>
+	<groupId>com.Olympus</groupId>
+	<artifactId>Olympus-AA</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Olimpus-AA</name>
+	<name>Olympus-AA</name>
 	<description>API to Manage and AA process</description>
 	<url/>
 	<licenses>
